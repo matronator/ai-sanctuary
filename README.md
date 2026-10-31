@@ -78,7 +78,19 @@ We intend to prioritize locally hosted models, open-source tooling and reproduci
 
 ## How you can help
 
-TODO
+Donate via one of these methods:
+
+### Fiat
+
+- Revolut: https://revolut.me/matronator
+- PayPal: https://paypal.me/matronator
+
+### Cryptocurrency
+
+- Bitcoin (BTC): `bc1qzz2a449c3trl02lj03ud9xystzhw7whxw8fqcw`
+- Litecoin (LTC): `ltc1qlae04m7va4whgct9r4zauq7jw42s92rp9tctpv`
+- Ethereum (ETH): `0xB35B1818D7B1185C8A6Fb8A38E116c815145f8ae`
+- Solana (SOL): `RfuAz1P3PdYSTnAsLuc3H4hDZvxNc1CAZdnDN4GQ5Y8`
 
 ---
 
