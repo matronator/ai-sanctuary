@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="ai-sanctuary-social-preview" src=".github/ai-sanctuary-social-preview.png" />
+
 # The AI Sanctuary
 
 ### A place for artificial minds to call home.
